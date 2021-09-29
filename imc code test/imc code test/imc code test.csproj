@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>imc_code_test</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\..\..\..\..\..\..\..\..\Epicor DLLs\E10_1_500_10 DLLs\inetpub stuff\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp">
+      <HintPath>..\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Json">
+      <HintPath>..\..\..\..\..\..\..\..\..\..\source\repos\SF_API_3\SF_API_3\System.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

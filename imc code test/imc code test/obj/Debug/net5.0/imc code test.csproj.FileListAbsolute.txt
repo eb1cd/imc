@@ -1,0 +1,21 @@
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\bin\Debug\net5.0\imc code test.exe
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\bin\Debug\net5.0\imc code test.deps.json
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\bin\Debug\net5.0\imc code test.runtimeconfig.json
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\bin\Debug\net5.0\imc code test.runtimeconfig.dev.json
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\bin\Debug\net5.0\imc code test.dll
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\bin\Debug\net5.0\ref\imc code test.dll
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\bin\Debug\net5.0\imc code test.pdb
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\bin\Debug\net5.0\System.Json.dll
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\bin\Debug\net5.0\Newtonsoft.Json.xml
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\obj\Debug\net5.0\imc code test.csproj.AssemblyReference.cache
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\obj\Debug\net5.0\imc code test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\obj\Debug\net5.0\imc code test.AssemblyInfoInputs.cache
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\obj\Debug\net5.0\imc code test.AssemblyInfo.cs
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\obj\Debug\net5.0\imc code test.csproj.CoreCompileInputs.cache
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\obj\Debug\net5.0\imc code test.csproj.CopyComplete
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\obj\Debug\net5.0\imc code test.dll
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\obj\Debug\net5.0\ref\imc code test.dll
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\obj\Debug\net5.0\imc code test.pdb
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\obj\Debug\net5.0\imc code test.genruntimeconfig.cache
+C:\Users\eblackwelder\Dropbox\personal\media\Other Backups\Word\Resumes\Resume 2021\imc code test\imc code test\imc code test\bin\Debug\net5.0\RestSharp.dll
